@@ -11,5 +11,5 @@ const CONFIG = {
     reply: 'Cậu xink thế kia hong iu thì phí :>>>>>>>>>>>>',
     mess: 'Tớ biết mà ^^ Love u 3 thousand  nàa',
     messDesc: 'Tối nay rảnh thì videocall với tớ nhaaa :3 Còn chần chừ gì nữa mà ko ib tớ đi nàoooo',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lunn <3',
     messLink: 'http://m.me/100070504141368'
